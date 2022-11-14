@@ -1,0 +1,5 @@
+<RCC>
+  <qresource prefix="newPrefix">
+    <file>nga.png</file>
+  </qresource>
+</RCC>

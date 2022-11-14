@@ -1,0 +1,5 @@
+<RCC>
+  <qresource prefix="newPrefix">
+    <file>rsz_mascot.jpg</file>
+  </qresource>
+</RCC>
