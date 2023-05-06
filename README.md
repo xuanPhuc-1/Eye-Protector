@@ -1,6 +1,3 @@
 # Eye-Protector
-Là một hệ thống đo khoảng cách từ mắt đến màn hình máy tính và độ sáng màn hình phù hợp cho mắt đối với mỗi môi trường khác nhau. 
-Để xây dựng hệ thống đo khoảng cách, chúng tôi chú trọng đến hai thông số là khoảng cách giữa hai mắt người dùng và khoảng cách từ 
-vị trí trung điểm của hai mắt người dùng tới màn hình máy tính. Từ đó cùng với công thức tính toán có thể cho ra khoảng cách an toàn 
-cho người dùng. Dữ liệu về ánh sáng môi trường bên ngoài được đưa vào máy tính bằng Arduino, sau khi so sánh với độ sáng màn hình thực 
-tế, thông qua thuật toán xử lý sẽ trả về độ sáng màn hình phù hợp. 
+Eye-Protector is a system that measures the distance from the user's eyes to the computer screen and adjusts the screen brightness to be suitable for each different environment. 
+To build the distance measurement system, we focus on two parameters: the distance between the user's eyes and the distance from the midpoint between the user's eyes to the computer screen. Based on these parameters and a calculation formula, we can determine a safe distance for the user. The data on the external environmental light is input into the computer via Arduino, and after comparing it with the actual screen brightness, the algorithm will return the appropriate screen brightness.
