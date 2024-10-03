@@ -1,3 +1,4 @@
+[![Hệ thống bảo vệ mắt người dùng khi sử dụng máy tính](https://img.youtube.com/vi/_S3uny-ECCU/maxresdefault.jpg)](https://www.youtube.com/watch?v=_S3uny-ECCU&t=217s)
 # Eye-Protector
 Eye-Protector is a system that measures the distance from the user's eyes to the computer screen and adjusts the screen brightness to be suitable for each different environment. 
 To build the distance measurement system, we focus on two parameters: the distance between the user's eyes and the distance from the midpoint between the user's eyes to the computer screen. Based on these parameters and a calculation formula, we can determine a safe distance for the user. The data on the external environmental light is input into the computer via Arduino, and after comparing it with the actual screen brightness, the algorithm will return the appropriate screen brightness.
